@@ -1,0 +1,45 @@
+{                
+                "atomic": {"encoding": "atomic", "add_doc_num": 319927, "max_docid_length": 1, "use_origin_head": "False"},
+                "pq": {"encoding": "pq", "add_doc_num": 6144, "max_docid_length": 24, "use_origin_head": "False"}, 
+                "rq": {"encoding": "rq", "add_doc_num": 6144, "max_docid_length": 24, "use_origin_head": "False"}, 
+
+                "nc48_cs512": {"add_doc_num": 24576, "max_docid_length": 48, "use_origin_head": "False"},
+                "nc48_cs256": {"add_doc_num": 12288, "max_docid_length": 48, "use_origin_head": "False"},
+                "nc48_cs128": {"add_doc_num": 6144, "max_docid_length": 48, "use_origin_head": "False"},
+
+                "nc32_cs512": {"add_doc_num": 16384, "max_docid_length": 32, "use_origin_head": "False"},
+                "nc32_cs256": {"add_doc_num": 8192, "max_docid_length": 32, "use_origin_head": "False"},
+                "nc32_cs128": {"add_doc_num": 4096, "max_docid_length": 32, "use_origin_head": "False"},
+                
+                "nc24_cs512": {"add_doc_num": 12288, "max_docid_length": 24, "use_origin_head": "False"}, 
+                "nc24_cs256": {"add_doc_num": 6144, "max_docid_length": 24, "use_origin_head": "False"}, 
+                "nc24_cs128": {"add_doc_num": 3072, "max_docid_length": 24, "use_origin_head": "False"}, 
+
+                "nc16_cs512": {"add_doc_num": 8192, "max_docid_length": 16, "use_origin_head": "False"}, 
+                "nc16_cs256": {"add_doc_num": 4096, "max_docid_length": 16, "use_origin_head": "False"}, 
+                "nc16_cs128": {"add_doc_num": 2048, "max_docid_length": 16, "use_origin_head": "False"},
+
+                "nc12_cs512": {"add_doc_num": 6144, "max_docid_length": 12, "use_origin_head": "False"}, 
+                "nc12_cs256": {"add_doc_num": 3072, "max_docid_length": 12, "use_origin_head": "False"}, 
+                "nc12_cs128": {"add_doc_num": 1536, "max_docid_length": 12, "use_origin_head": "False"},
+
+                "nc8_cs512": {"add_doc_num": 4096, "max_docid_length": 8, "use_origin_head": "False"}, 
+                "nc8_cs256": {"add_doc_num": 2048, "max_docid_length": 8, "use_origin_head": "False"}, 
+                "nc8_cs128": {"add_doc_num": 1024, "max_docid_length": 8, "use_origin_head": "False"},
+
+                "nc6_cs512": {"add_doc_num": 3072, "max_docid_length": 6, "use_origin_head": "False"}, 
+                "nc6_cs256": {"add_doc_num": 1536, "max_docid_length": 6, "use_origin_head": "False"}, 
+                "nc6_cs128": {"add_doc_num": 768, "max_docid_length": 6, "use_origin_head": "False"},
+
+                "nc4_cs512": {"add_doc_num": 2048, "max_docid_length": 4, "use_origin_head": "False"}, 
+                "nc4_cs256": {"add_doc_num": 1024, "max_docid_length": 4, "use_origin_head": "False"}, 
+                "nc4_cs128": {"add_doc_num": 512, "max_docid_length": 4, "use_origin_head": "False"},
+
+                "nc2_cs512": {"add_doc_num": 1024, "max_docid_length": 2, "use_origin_head": "False"},
+                "nc2_cs256": {"add_doc_num": 512, "max_docid_length": 2, "use_origin_head": "False"},
+                "nc2_cs128": {"add_doc_num": 256, "max_docid_length": 2, "use_origin_head": "False"},
+                
+                "url": {"encoding": "url_title", "add_doc_num": 0, "max_docid_length": 100, "use_origin_head": "True"},
+
+                "doc_num": {"top_300k": 319927}
+}

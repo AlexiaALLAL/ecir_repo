@@ -1,0 +1,8 @@
+docids/
+docid_results/
+codebooks/
+rq_benchmark_results/
+.DS_Store
+*.png
+*.pdf
+ddro/analysis/
